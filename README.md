@@ -1,13 +1,46 @@
-# React + Vite
+# 💼 Rohit Lad – React Portfolio
+Welcome to my personal portfolio website built using React.js, where I showcase my projects, skills, achievements, and the journey as a web developer. This site is designed with a modern UI, fully responsive layout, and smooth animations to give visitors a seamless experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Site: rohit-lad.netlify.app
 
-Currently, two official plugins are available:
+# 🚀 Features
+🔥 Built with React.js and Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Fully responsive design for mobile, tablet, and desktop
 
-## Expanding the ESLint configuration
+🎨 Custom components and smooth UI interactions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# React-Animated-Portfolio
+📩 Integrated EmailJS contact form with Toast notifications
+
+📚 Clean code structure and reusable components
+
+🌙 Dark-themed aesthetic with modern gradients and shadows
+
+# 🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS
+
+Email Service: EmailJS
+
+Notifications: react-toastify
+
+Deployment: Netlify
+
+📂 Sections
+Home – Introduction and quick links
+
+About – Who I am and what I do
+
+Projects – Highlights of selected work with GitHub links
+
+Contact – Contact form to get in touch directly via email
+
+# 📬 Contact Me
+Feel free to connect for collaboration, internships, freelance work, or just a tech chat!
+
+# 📧 Email: rohitlad495@gmail.com
+🔗 LinkedIn: linkedin.com/in/rohit-lad
+🌐 Portfolio: rohit-lad.netlify.app
+
+# 🧑‍💻 Author
+Rohit Lad
+Third-Year IT Student | Web Developer | Tech Enthusiast
