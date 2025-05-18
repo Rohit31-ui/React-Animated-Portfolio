@@ -1,7 +1,7 @@
 # 💼 Rohit Lad – React Portfolio
 Welcome to my personal portfolio website built using React.js, where I showcase my projects, skills, achievements, and the journey as a web developer. This site is designed with a modern UI, fully responsive layout, and smooth animations to give visitors a seamless experience.
 
-🌐 Live Site: rohit-lad.netlify.app
+🌐 Live Site: (https://rohit-lad.netlify.app/)
 
 # 🚀 Features
 🔥 Built with React.js and Tailwind CSS
@@ -36,10 +36,9 @@ Contact – Contact form to get in touch directly via email
 
 # 📬 Contact Me
 Feel free to connect for collaboration, internships, freelance work, or just a tech chat!
-
-# 📧 Email: rohitlad495@gmail.com
-🔗 LinkedIn: linkedin.com/in/rohit-lad
-🌐 Portfolio: rohit-lad.netlify.app
+📧 [Email me](mailto:rohitlad495@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohit-lad)  
+🌐 [Visit Portfolio](https://rohit-lad.netlify.app/)
 
 # 🧑‍💻 Author
 Rohit Lad
