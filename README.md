@@ -36,6 +36,7 @@ Contact – Contact form to get in touch directly via email
 
 # 📬 Contact Me
 Feel free to connect for collaboration, internships, freelance work, or just a tech chat!
+
 📧 [Email me](mailto:rohitlad495@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-lad)  
 🌐 [Visit Portfolio](https://rohit-lad.netlify.app/)
