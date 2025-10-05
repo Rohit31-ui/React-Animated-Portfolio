@@ -122,7 +122,7 @@ export const SkillsInfo = [
       img: i2it,
       school: "I2IT- Pune",
       date: "Nov 2022 - June 2026",
-      grade: "8.12 CGPA",
+      grade: "8.3 CGPA",
       desc: "During my B.E. in Information Technology at I²IT, I gained a strong foundation in computer science principles and practical experience in web development, databases, algorithms, and software engineering. The curriculum emphasized both theoretical knowledge and hands-on projects, helping me build problem-solving and technical skills.",
       degree: "Bachelor of Engineering",
     },
