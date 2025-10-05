@@ -22,6 +22,10 @@ import postmanLogo from './assets/tech_logo/postman.png';
 import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
+import greenCart from './assets/tech_logo/greenCart.jpeg'
+import aws from './assets/tech_logo/aws.jpeg'
+import netflix from './assets/tech_logo/netflix.jpeg'
+import quiz from './assets/quiz.jpeg'
 
 
 // Experience Section Logo's
@@ -87,6 +91,7 @@ export const SkillsInfo = [
       { name: 'Vercel', logo: vercelLogo },
       { name: 'Netlify', logo: netlifyLogo },
       { name: 'Figma', logo: figmaLogo },
+      { name: 'Aws', logo: aws },
     ],
   },
 ];
@@ -149,6 +154,7 @@ export const SkillsInfo = [
       title: "Agrimitra",
       description:
         "Agrimitra is a smart farming assistant app designed to support farmers in optimizing agricultural practices through technology. The app leverages AI and machine learning to provide fertilizer recommendations, plant disease detection, and an AI-powered chatbot for seamless interaction.",
+      domain:"full",  
       image: agri,
       tags: ["HTML", "CSS", "JavaScript", "Mashine Learning", "API"],
       github: "https://github.com/Rohit31-ui/AgriMitra",
@@ -159,16 +165,18 @@ export const SkillsInfo = [
       title: "Prescripto",
       description:
         "This web application allows patients to book doctor appointments online. It features a user-friendly interface for browsing doctors, selecting time slots, and making payments. The admin dashboard provides the ability to manage appointments, update schedules, and track patient bookings. Payment gateway integration ensures secure online transactions for appointment bookings.",
+      domain:"full",
       image: doctor,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "JavaScript","API"],
       github: "https://github.com/Rohit31-ui/Prescripto",
-      webapp: "",
+      webapp: "https://precscripto-appoinment-booking-app.netlify.app/",
     },
     {
       id: 2,
       title: "Food Delivery App",
       description:
         "Foodie Express is a modern, fully responsive food delivery website built with React.js and styled using Tailwind CSS. It leverages advanced React features like hooks, useState, useEffect, React-Redux, and Context API to provide a seamless user experience.",
+      domain:"react",
       image: food,
       tags: ["React JS", "TailwindCss", "JavaScript"],
       github: "https://github.com/Rohit31-ui/Foodie-Express-food-delivery-application",
@@ -179,6 +187,7 @@ export const SkillsInfo = [
       title: "Blog nest application",
       description:
         "BlogNest is a React-powered blog application designed for a seamless reading experience by fetching blog data from an online API. Built entirely with React.js and Tailwind CSS, it offers a sleek, fast, and fully responsive UI. The app leverages React Router DOM for smooth navigation, useState and useEffect for efficient state management, and Toastify for dynamic notifications. ",
+      domain:"react",
       image: blog,
       tags: ["React JS", "TailwindCss", "JavaScript",],
       github: "https://github.com/Rohit31-ui/BlogNest_blog_application",
@@ -189,6 +198,7 @@ export const SkillsInfo = [
       title: "News Monkey",
       description:
         "NewsMokey is a dynamic news website that allows users to explore and read news articles across various domains such as sports, science, technology, business, and politics. The project leverages an online API to fetch real-time news updates and displays them in an organized and user-friendly manner. It is built using React and incorporates various React hooks for state management and functionality.",
+      domain:"react",
       image: news,
       tags: ["React JS", "JavaScript", "TailwindCss"],
       github: "https://github.com/Rohit31-ui/NewsMonkey-react-project-Functional-base",
@@ -199,10 +209,62 @@ export const SkillsInfo = [
       title: "CRUD Operations",
       description:
         "This project is a simple CRUD (Create, Read, Update, Delete) application built with Node.js, Express, and MongoDB. It allows users to perform CRUD operations on user data (name, email, and city). The project follows a RESTful API design and demonstrates basic database interactions using MongoDB with Mongoose.",
+      domain:"backend" , 
       image: crud,
       tags: ["Node JS", "Mongo DB", "JavaScript", "Express JS"],
       github: "https://github.com/Rohit31-ui/Crud-Operation",
       webapp: "",
     },
+    {
+      id: 6,
+      title: "Green Cart",
+      description:
+        "GreenCart is a full-stack grocery e-commerce platform that brings together users and sellers in a seamless ecosystem. With secure authentication, efficient product management, multiple payment options, and a clean user interface, GreenCart is designed to make grocery shopping simple, fast, and reliable.",
+      domain:"full" , 
+      image: greenCart,
+      tags: ["Node JS", "Mongo DB", "React", "Express JS"],
+      github: "https://github.com/Rohit31-ui/Crud-Operation",
+      webapp: "https://greencart-gs.vercel.app/",
+    },
+    {
+      id: 7,
+      title: "Netflix Clone",
+      description:
+        "A full-stack Netflix-inspired streaming platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed to replicate core Netflix functionalities such as user authentication, movie browsing, dynamic video streaming, and responsive UI.",
+      domain:"full" , 
+      image: netflix,
+      tags: ["Node JS", "Mongo DB", "React", "Express JS"],
+      github: "https://github.com/Rohit31-ui/Netflix-Clone-React-Project",
+      webapp: "",
+    },
+
+    {
+      id: 8,
+      title: "Quiz Management Backend",
+      description:
+        `This is a simple backend API for a Quiz Application. It allows you to:
+
+✅ Create quizzes with a title
+✅ Add questions to quizzes, including multiple options, and mark correct answers
+✅ Fetch all quizzes
+✅ Fetch all questions (with options) for a specific quiz`,
+      domain:"backend" , 
+      image: quiz,
+      tags: ["Node JS", "Mongo DB", "rest api", "Express JS"],
+      github: "https://github.com/Rohit31-ui/Netflix-Clone-React-Project",
+      webapp: "",
+    },
+
+
+
+
+
+
+
+
+
+
+
+
     
   ];  

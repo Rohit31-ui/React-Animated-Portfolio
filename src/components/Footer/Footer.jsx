@@ -56,6 +56,9 @@ const Footer = () => {
             </a>
           ))}
         </div>
+        <p className="text-sm text-gray-400 mt-6">
+          Built with React, JavaScript, Tailwind CSS, and lots of passion ✨
+        </p>
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
