@@ -102,7 +102,7 @@ export const SkillsInfo = [
       img: itux,
       role: "Frontend Developer Intern",
       company: "iTUX Solutions",
-      date: "Feb 2024 - Present",
+      date: "Feb 2025 - May 2025",
       desc: "Developed dynamic and responsive web applications using ReactJS, focusing on performance, usability, and maintainability. Collaborated with cross-functional teams to implement intuitive user interfaces, integrate RESTful APIs, and ensure seamless user experiences. Contributed to scalable frontend architecture in an agile development environment, emphasizing clean code practices and component reusability.",
       skills: [
         "JavaScript",
